@@ -7,7 +7,7 @@ to get our pass@1 to 53.2%, which is higher than the 52.2% maj@8 originally
 reported in the Mistral 7B arXiv preprint.
 
 | version                      | pass@1 (or similar)   | maj@8 (or similar)    |
-|:----------------------------:|:---------------------:|:---------------------:|
+| ---------------------------- | --------------------- | --------------------- |
 | Mistral 7B (arXiv preprint)  |                       | 52.2%                 |
 | Mistral 7B (8x22B blog post) | 36.5% (maj@1, 5-shot) | 50.0% (maj@8, 8-shot) |
 | Mistral 7B (this repo)       | **53.2%**             |                       |
